@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatima Raees</h1>
 <h3 align="center">Full-Stack Developer Obsessed with Security & Focused Flow</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimamano" alt="fatimamano" /></a> </p>
-
 - 🌱 I’m currently learning **flutter,redis, creating scalable and fast solutions.**
 
 - 💬 Ask me about **C#, .net and azure.**
